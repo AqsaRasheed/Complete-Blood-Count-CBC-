@@ -1,6 +1,10 @@
 # Complete-Blood-Count-CBC-
 Complete Blood  Cells Detection and Counting
-#Transfer Learning and Custom Training for CBC on Official YOLOv7
+A complete blood count (CBC) is a blood test used to evaluate your overall health and detect a wide range of disorders, including anemia, infection and leukemia. A complete blood count test measures several components and features of your blood, including: Red blood cells, which carry oxygen.
+Some of the most common diseases a CBC detects include anemia, autoimmune disorders, bone marrow disorders, dehydration, infections, inflammation, leukemia, lymphoma, myeloproliferative neoplasms, myelodysplastic syndrome, sickle cell disease, thalassemia, nutritional deficiencies (e.g., Iron, B12 or folate) etc.
+
+
+## Transfer Learning and Custom Training for CBC on Official YOLOv7
 
 ## Results
 ``` shell
