@@ -15,6 +15,21 @@ Some of the most common diseases a CBC detects include anemia, autoimmune disord
      WBC          73          72       0.966           1       0.983       0.792
 50 epochs completed in 0.377 hours.
 ```
+
+## Download file for weights "best.pt"
+
+From Google Drive:
+``` shell
+https://drive.google.com/file/d/1WAGlkLQ4j24-CXqAo9fYP7nTqXpZOlom/view?usp=sharing
+```
+
+## Upload File directly or use the following code
+
+From Google Drive:
+``` shell
+from google.colab import files
+uploaded = files.upload()
+```
 ## Inference
 
 On image:
