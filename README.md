@@ -34,8 +34,7 @@ uploaded = files.upload()
 
 On image:
 ``` shell
-!python customcount.py --weights best.pt --conf 0.06 --img-size 416 --source  /inference/images
-
+!python custom_detect.py --weights best.pt --conf 0.06 --img-size 416 --source  /inference/images
 ```
 
 <div align="center">
