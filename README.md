@@ -19,7 +19,7 @@ Some of the most common diseases a CBC detects include anemia, autoimmune disord
 
 On image:
 ``` shell
-!python detectandcount.py --weights best.pt --conf 0.06 --img-size 416 --source  /inference/images
+!python customcount.py --weights best.pt --conf 0.06 --img-size 416 --source  /inference/images
 
 ```
 
